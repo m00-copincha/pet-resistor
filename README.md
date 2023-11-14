@@ -15,7 +15,6 @@ PETResistor is a PET bottle 3D printing filament extruder, akin to Recreator 3D,
 
 <br>
 
-
 ## Components: 
 
 - A bottle cutter built by:
@@ -56,7 +55,6 @@ Recycled components: these are the components obtained from other objects or mac
 
 
 Fabricated Components: these are components that are created with a RepRap machine or other tools, such as 3D printers, milling machines, etc. These were designed following the Openstructures grid.
-
 
 <br>
 
@@ -128,7 +126,6 @@ Fabricated Components: these are components that are created with a RepRap machi
 13. Assemble rear face
 
 14. Assemble bottom face
-
 
 <br>
 
