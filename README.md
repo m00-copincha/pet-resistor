@@ -1,5 +1,7 @@
 # pet-resistor
 
+
+
 <br>
 
 If you’re passionate about sustainability, enjoy 3D printing as a hobby, and possess basic electronics knowledge, this project is tailor-made for you! Our mission? To repurpose discarded PET plastic bottles into valuable material for your 3D creations.
@@ -12,6 +14,8 @@ PETResistor is a PET bottle 3D printing filament extruder, akin to Recreator 3D,
 2. **Flat Components**: We’ve taken a pragmatic approach by using flat components. These parts can be easily designed using computer-aided design software or 2D vector tools. Whether laser-cut or 3D printed, the streamlined 3D modeling process ensures accessibility.
 3. **Inclusive Design**: PETResistor is all about inclusivity. We intentionally minimized the required manufacturing skills, inviting more people to actively participate. The Openstructure modular system provides a common framework for adapting and creating components, fostering collaboration and innovation.
 4. **Empowering Individuals**: Our ultimate goal? Empower individuals to establish their own plastic recycling solutions on a small or local scale. By transforming PET bottles into 3D printing filament, we’re not only reducing waste but also encouraging creativity.
+
+Feel free to reach out at maurice.haedo@gmail.com if you have any questions or want to get involved! 🌱🌟
 
 <br>
 
