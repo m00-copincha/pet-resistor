@@ -1,1 +1,213 @@
 # pet-resistor
+
+<br>
+
+If you’re passionate about sustainability, enjoy 3D printing as a hobby, and possess basic electronics knowledge, this project is tailor-made for you! Our mission? To repurpose discarded PET plastic bottles into valuable material for your 3D creations.
+
+<br>
+
+PETResistor is a PET bottle 3D printing filament extruder, akin to Recreator 3D, Petamentor, and PETalot. It combines the best features of these projects, emphasizing purpose and simplicity. Here are the key characteristics of PETResistor:
+
+1. **Self-Replicating**: PETResistor’s filament extruder belongs to the Reprap machine family. It possesses self-replicating capabilities, allowing it to contribute to its own production cycle.
+2. **Flat Components**: We’ve taken a pragmatic approach by using flat components. These parts can be easily designed using computer-aided design software or 2D vector tools. Whether laser-cut or 3D printed, the streamlined 3D modeling process ensures accessibility.
+3. **Inclusive Design**: PETResistor is all about inclusivity. We intentionally minimized the required manufacturing skills, inviting more people to actively participate. The Openstructure modular system provides a common framework for adapting and creating components, fostering collaboration and innovation.
+4. **Empowering Individuals**: Our ultimate goal? Empower individuals to establish their own plastic recycling solutions on a small or local scale. By transforming PET bottles into 3D printing filament, we’re not only reducing waste but also encouraging creativity.
+
+<br>
+
+
+## Components: 
+
+- A bottle cutter built by:
+    - Threaded rod
+    - 2 screws
+    - 2 wing nuts
+    - cutter blade 9mm . 
+
+- A power supply system, built by:
+
+    - Power supply 110V 12V 10Amp.
+    - On/Off Switch 
+    - Powercord
+
+- A system to generate temperature in a controlled way, built by:
+
+    - 3d printer heating block 12V
+    - PID control REX c-100
+    - K type resistor
+    - Relay 12V 10Amp
+    - Computer Fan 12V 50mm x 50mm
+
+- A system to rotate the reel in a controlled way, built with:
+
+    - DC 12 V 10 Amp motor with more than 160 rpm 
+    - Potentiometer module for the speed control for 12V 10 Amp
+
+- Mechanical parts and structures made with fabricated or standardized parts.
+
+
+To better understand the project we can see it from the origin of its components, so we have:
+
+
+Purchased Components: these are the components that are purchased in the market, such as screws, bearings, cables, etc.
+
+
+Recycled components: these are the components obtained from other objects or machines in disuse. These components are used to reduce the cost and environmental impact of the RepRap project.
+
+
+Fabricated Components: these are components that are created with a RepRap machine or other tools, such as 3D printers, milling machines, etc. These were designed following the Openstructures grid.
+
+
+<br>
+
+## The construction of the machine
+
+
+1. Preparing the cutter module
+    1.1 Place the screws on the cutter base and attach the wing nuts.
+    1.2 Place threaded rod on the cutter base.
+    1.3 Attach the cutter base to the cutter holder by screwing it together.
+
+2. Prepare the hotend module
+    2.1. Drill the hotend with a 1.7 mm drill bit.
+    2.2. Drill the back of the heater with a 5mm drill bit.
+    2.3. Attach the hotend to the hotend holder.
+    2.4. Attach the ribbon guide to the hotend holder.
+    2.5. Place the thermocoupler on the heatblock
+    2.6 Place the resistor on the heatblock
+    2.7 Insert cables through the orifice of the hotend holder
+
+3. Preparing the power supply module
+    3.1 Screw the power supply unit to the brackets
+
+4. Prepare the ventilation module 
+    4.1. Screw the fan to the inlet and outlet ventilation brackets.
+
+5. Prepare the winder module
+    5.1 Screw motor to motor holder.
+    5.2 screw coupling to motor
+    5.3 Screw the spooler to the coupling
+    5.4 Screw the spooler
+    
+6. Preparing the tensioning rod module
+    6.1 Assemble the pulley
+    6.2 Place the pulley inside the shaft
+    6.3 Fit the inner guide nuts
+    6.4 Place wing nuts as outer guides
+
+7. Prepare control modules
+    7.1 Place the power switch on its holder 
+    7.2 Place Pid control on its holder
+    7.3 Place the speed control on its support.
+
+8. Prepare relay module
+    8.1 Assemble the relay bracket
+    8.2 Solder wires to the relay
+    8.3 Attach relay to bracket
+    
+9. Screw the brackets with the power supply to the bars. 
+
+10. Assemble the frame
+    10.1. Join the aluminum bars and the 3 longest covers.
+
+11. Fit the two side covers. Insert the power cable through the hole in one of these side covers.
+    11.1. Connect the power cable to the switch. 11.2. 
+    11.2. Connect the switch to the power supply.
+    11.3. Connect the PID control to the power supply.
+    11.4. Connect the fan to the power supply. 
+    11.5. Connect the speed control to the power supply
+    11.6. Connect the motor to the speed control
+    11.7. Connect thermocouple to PID controller
+    11.8. Connect the resistor to the PID control
+
+12. Assemble front face
+    12.1. Place control modules in the front frame. 12.2.
+    12.2. place relay module on the front frame
+    12.3. Place ventilation modules.
+
+13. Assemble rear face
+
+14. Assemble bottom face
+
+
+<br>
+
+## How to use it?
+
+**Step 1: Prepare the bottles.**
+
+* Check if you have a PET bottle, look for the triangle symbol with the number 1 on the inside.
+
+* Remove the labels and wash the bottles well both inside and outside.
+
+* Inflate the bottles by applying air pressure. 
+
+* Remove creases using a hot air gun.
+
+* Remove glue using WD-40.
+
+* Finally wash the bottle with detergent to remove any remaining grease.
+
+**Step 2: Cut the strips.**
+
+* Cut the bottles into strips using a cutter. 
+
+* It is important that the tape is homogeneous to obtain a good quality filament. 
+
+* The width of the strips should be between 8 and 9 mm. A bottle of water is about 11 or 12 meters. The wider the bottle is cut the shorter the resulting strip will be.
+
+**Step 3: Extrusion**
+
+* Start the machine and set the appropriate temperature.
+
+* Cut the end of the strip into a fine tip shape that can pass through the nozzle of the heating block.
+
+* Insert the tip of the strip into the nozzle and pull it until the length of the resulting extruded filament is long enough to connect it to the spooling cable.
+
+* Connect the tip of the resulting extruded filament to the winder cable.
+
+<br>
+
+## 3D printing with PET
+
+1. Printer Compatibility:
+
+    * Many common 3D printers are not designed for printing with PET.
+
+    * Make sure your printer can operate above 250 degrees Celsius.
+
+    * Verify that the Teflon tube is able to withstand temperatures up to 260 degrees Celsius.
+
+    * Filament traction is better when using a direct extruder, as the Bowden system has higher friction.
+
+    * Opt for a 0.6 mm or 0.8 mm nozzle.
+
+2. Temperature control:
+
+    * If the printer gets too hot, it can crystallize and cause jams.
+
+    * Jams can be caused by:
+
+        * High temperature.
+
+        * Too slow printing speed.
+
+        * Fan speed.
+
+    * Start with a minimum temperature of 250 degrees Celsius and adjust as needed. Increase in 5 degree increments if extrusion is uneven or if filament slips.
+
+3. Bubble control:
+
+    * Bubbles are related to moisture. This is not absorbed directly by the filament, but is trapped in the void during manufacturing.
+
+    * Dry the filament properly to avoid bubbles. You can use a filament dryer.
+
+3. Printing parameters:
+
+* Layer fan speed: 15%. 
+
+* Printing temperature: 255°C and 260°C.
+
+* Hot bed temperature: Between 80°C and 85°C.
+
+* Printing speed: 30 mm/s.
