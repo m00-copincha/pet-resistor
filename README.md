@@ -1,6 +1,6 @@
-# pet-resistor
+# PET-Resistor
 
-
+![](./media/pet-resistor--banner.png)
 
 <br>
 
@@ -8,11 +8,11 @@ If you’re passionate about sustainability, enjoy 3D printing as a hobby, and p
 
 <br>
 
-PETResistor is a PET bottle 3D printing filament extruder, akin to Recreator 3D, Petamentor, and PETalot. It combines the best features of these projects, emphasizing purpose and simplicity. Here are the key characteristics of PETResistor:
+PET-Resistor is a PET bottle 3D printing filament extruder, akin to Recreator 3D, Petamentor, and PETalot. It combines the best features of these projects, emphasizing purpose and simplicity. Here are the key characteristics of PETResistor:
 
-1. **Self-Replicating**: PETResistor’s filament extruder belongs to the Reprap machine family. It possesses self-replicating capabilities, allowing it to contribute to its own production cycle.
+1. **Self-Replicating**: PET-Resistor’s filament extruder belongs to the Reprap machine family. It possesses self-replicating capabilities, allowing it to contribute to its own production cycle.
 2. **Flat Components**: We’ve taken a pragmatic approach by using flat components. These parts can be easily designed using computer-aided design software or 2D vector tools. Whether laser-cut or 3D printed, the streamlined 3D modeling process ensures accessibility.
-3. **Inclusive Design**: PETResistor is all about inclusivity. We intentionally minimized the required manufacturing skills, inviting more people to actively participate. The Openstructure modular system provides a common framework for adapting and creating components, fostering collaboration and innovation.
+3. **Inclusive Design**: PET-Resistor is all about inclusivity. We intentionally minimized the required manufacturing skills, inviting more people to actively participate. The Openstructure modular system provides a common framework for adapting and creating components, fostering collaboration and innovation.
 4. **Empowering Individuals**: Our ultimate goal? Empower individuals to establish their own plastic recycling solutions on a small or local scale. By transforming PET bottles into 3D printing filament, we’re not only reducing waste but also encouraging creativity.
 
 Feel free to reach out at maurice.haedo@gmail.com if you have any questions or want to get involved! 🌱🌟
@@ -29,25 +29,30 @@ Feel free to reach out at maurice.haedo@gmail.com if you have any questions or w
 
 - A power supply system, built by:
 
-    - Power supply 110V 12V 10Amp.
+    - Power supply 110V 12V 10Amp (or more)
     - On/Off Switch 
     - Powercord
 
 - A system to generate temperature in a controlled way, built by:
 
-    - 3d printer heating block 12V
-    - PID control REX c-100
-    - K type resistor
+    - 3D Printer Heater Cartridge Wire 12V 40W
+    - 3d printer heating block
+    - REX-C100 Temperature Controller
+    - K Type Thermocouple Temperature Probe Sensor
     - Relay 12V 10Amp
     - Computer Fan 12V 50mm x 50mm
 
 - A system to rotate the reel in a controlled way, built with:
 
-    - DC 12 V 10 Amp motor with more than 160 rpm 
+    - [DC 12V 20RPM Gear Motor](https://www.amazon.com/gp/aw/d/B07K9KPWX6) - High Torque Electric Micro Speed Reduction Geared Motor Centric Output Shaft 37mm Diameter Gearbox
     - Potentiometer module for the speed control for 12V 10 Amp
 
 - Mechanical parts and structures made with fabricated or standardized parts.
-
+    - screws 
+    - nut
+    - washer
+    - brace
+    - 
 
 To better understand the project we can see it from the origin of its components, so we have:
 
