@@ -13,8 +13,6 @@ If you’re passionate about sustainability, enjoy 3D printing as a hobby, and p
 
 Feel free to reach out at maurice.haedo@gmail.com if you have any questions or want to get involved! 🌱🌟
 
-<br>
-
 # Contents
 
 - [Getting Started](#getting-started)
@@ -148,8 +146,6 @@ Fabricated Components: these are components that are created with a RepRap machi
 
 14. Assemble bottom face
 
-<br>
-
 ## Using the machine?
 
 ### Preparing the bottles
@@ -183,8 +179,6 @@ Fabricated Components: these are components that are created with a RepRap machi
 * Insert the tip of the strip into the nozzle and pull it until the length of the resulting extruded filament is long enough to connect it to the spooling cable.
 
 * Connect the tip of the resulting extruded filament to the winder cable.
-
-<br>
 
 ## 3D printing with PET
 
