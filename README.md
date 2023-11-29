@@ -1,12 +1,6 @@
-# PET-Resistor
-
 ![](./media/pet-resistor--banner.png)
 
-<br>
-
-If you’re passionate about sustainability, enjoy 3D printing as a hobby, and possess basic electronics knowledge, this project is tailor-made for you! Our mission? To repurpose discarded PET plastic bottles into valuable material for your 3D creations.
-
-<br>
+# What is PET-Resistor?
 
 PET-Resistor is a PET bottle 3D printing filament extruder, akin to [TheRecreator3D](http://recreator3d.com/), [Petamentor](https://petamentor2.com), and [PETalot](https://github.com/function3d/petalot), [FixStruder](https://www.fixstruder.eu/product/fixbot/). It combines the best features of these projects, emphasizing purpose and simplicity. Here are the key characteristics of PET-Resistor:
 
@@ -15,11 +9,33 @@ PET-Resistor is a PET bottle 3D printing filament extruder, akin to [TheRecreato
 3. **Inclusive Design**: PET-Resistor is all about inclusivity. We intentionally minimized the required manufacturing skills, inviting more people to actively participate. The Openstructure modular system provides a common framework for adapting and creating components, fostering collaboration and innovation.
 4. **Empowering Individuals**: Our ultimate goal? Empower individuals to establish their own plastic recycling solutions on a small or local scale. By transforming PET bottles into 3D printing filament, we’re not only reducing waste but also encouraging creativity.
 
+If you’re passionate about sustainability, enjoy 3D printing as a hobby, and possess basic electronics knowledge, this project is tailor-made for you! Our mission? To repurpose discarded PET plastic bottles into valuable material for your 3D creations.
+
 Feel free to reach out at maurice.haedo@gmail.com if you have any questions or want to get involved! 🌱🌟
 
 <br>
 
-## Components: 
+# Contents
+
+- [Getting Started](#getting-started)
+- [Documentation](#documentation)
+    - [Building the machine](#building-the-machine)
+        - [Prerequisites](#prerequisites)
+        - [Components](#components)
+        - [The building flow](#the-building-flow)
+    - [Using the machine](#using-the-machine) 
+        - [Preparing the bottles](#preparing-the-bottles)
+        - [Cutting the strips](#cutting-the-strips)
+        - [Extruding](#extruding)
+    - [3D printing with PET](#3d-printing-with-pet)
+
+# Documentation
+
+## Building the machine
+
+### Prerequisites
+
+### Components
 
 - A bottle cutter built by:
     - 1 Threaded rod M8
@@ -64,17 +80,14 @@ Recycled components: these are the components obtained from other objects or mac
 
 Fabricated Components: these are components that are created with a RepRap machine or other tools, such as 3D printers, milling machines, etc. These were designed following the Openstructures grid.
 
-<br>
-
-## The construction of the machine
-
+### The building flow
 
 1. Preparing the cutter module
     1.1 Place the screws on the cutter base and attach the wing nuts.
     1.2 Place threaded rod on the cutter base.
     1.3 Attach the cutter base to the cutter holder by screwing it together.
 
-2. Prepare the hotend module
+2. Preparing the hotend module
     2.1. Drill the hotend with a 1.7 mm drill bit.
     2.2. Drill the back of the heater with a 5mm drill bit.
     2.3. Attach the hotend to the hotend holder.
@@ -137,9 +150,9 @@ Fabricated Components: these are components that are created with a RepRap machi
 
 <br>
 
-## How to use it?
+## Using the machine?
 
-**Step 1: Prepare the bottles.**
+### Preparing the bottles
 
 * Check if you have a PET bottle, look for the triangle symbol with the number 1 on the inside.
 
@@ -153,7 +166,7 @@ Fabricated Components: these are components that are created with a RepRap machi
 
 * Finally wash the bottle with detergent to remove any remaining grease.
 
-**Step 2: Cut the strips.**
+### Cutting the strips
 
 * Cut the bottles into strips using a cutter. 
 
@@ -161,7 +174,7 @@ Fabricated Components: these are components that are created with a RepRap machi
 
 * The width of the strips should be between 8 and 9 mm. A bottle of water is about 11 or 12 meters. The wider the bottle is cut the shorter the resulting strip will be.
 
-**Step 3: Extrusion**
+### Extruding
 
 * Start the machine and set the appropriate temperature.
 

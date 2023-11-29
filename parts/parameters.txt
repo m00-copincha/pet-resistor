@@ -1,0 +1,3 @@
+--imgsize=500,500
+--projection=o
+--colorscheme=DeepOcean
