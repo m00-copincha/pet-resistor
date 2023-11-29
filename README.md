@@ -27,6 +27,10 @@ Feel free to reach out at maurice.haedo@gmail.com if you have any questions or w
         - [Extruding](#extruding)
     - [3D printing with PET](#3d-printing-with-pet)
 
+# Getting Started
+
+
+
 # Documentation
 
 ## Building the machine
