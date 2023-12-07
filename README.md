@@ -29,7 +29,14 @@ Feel free to reach out at maurice.haedo@gmail.com if you have any questions or w
 
 # Getting Started
 
+For this project, you need the following programs:
 
+* A 2D vector drawing software. You can use any one that allows you to export in SVG format. I am using:
+    * SolveSpace, which allows you to make drawings with parametric constraints.
+    * Inkscape, which allows you to draw vector graphics in a simple way.
+* A 3D modeling software. You can use OpenSCAD, which allows you to import SVG files and apply an extrusion operation to give them thickness.
+
+Another option is to create the drawing and the extrusion directly in SolveSpace, without using another program.
 
 # Documentation
 
@@ -162,7 +169,7 @@ Fabricated Components: these are components that are created with a RepRap machi
 
 * Remove creases using a hot air gun.
 
-* Remove glue using WD-40.
+* Remove glue using WD-40 and a srub sponge or a scrub brush.
 
 * Finally wash the bottle with detergent to remove any remaining grease.
 

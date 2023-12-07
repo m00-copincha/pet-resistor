@@ -5,6 +5,7 @@ rem Crea la carpeta thumbnails si no existe
 if not exist thumbnails md thumbnails
 rem Borra todos los archivos .png de la carpeta thumbnails
 del /f /q /s thumbnails\*.png
+
 rem Cambia al directorio donde están los archivos .scad a procesar
 rem cd C:\Users\TuNombre\modelos
 rem Recorre todos los archivos .scad de la carpeta y sus subcarpetas
