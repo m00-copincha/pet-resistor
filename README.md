@@ -4,14 +4,13 @@
 
 PET-Resistor is a PET bottle 3D printing filament extruder, akin to [TheRecreator3D](http://recreator3d.com/), [Petamentor](https://petamentor2.com), and [PETalot](https://github.com/function3d/petalot), [FixStruder](https://www.fixstruder.eu/product/fixbot/). It combines the best features of these projects, emphasizing purpose and simplicity. Here are the key characteristics of PET-Resistor:
 
-1. **Self-Replicating**: PET-Resistor’s filament extruder belongs to the Reprap machine family. It possesses self-replicating capabilities, allowing it to contribute to its own production cycle.
-2. **Flat Components**: We’ve taken a pragmatic approach by using flat components. These parts can be easily designed using computer-aided design software or 2D vector tools. Whether laser-cut or 3D printed, the streamlined 3D modeling process ensures accessibility.
-3. **Inclusive Design**: PET-Resistor is all about inclusivity. We intentionally minimized the required manufacturing skills, inviting more people to actively participate. The Openstructure modular system provides a common framework for adapting and creating components, fostering collaboration and innovation.
-4. **Empowering Individuals**: Our ultimate goal? Empower individuals to establish their own plastic recycling solutions on a small or local scale. By transforming PET bottles into 3D printing filament, we’re not only reducing waste but also encouraging creativity.
+* **Self-replication:** the PET-Resistor filament extruder has self-replication capabilities like RepRap machines (https://reprap.org/wiki/RepRap), allowing it to contribute to its own production cycle.
 
-If you’re passionate about sustainability, enjoy 3D printing as a hobby, and possess basic electronics knowledge, this project is tailor-made for you! Our mission? To repurpose discarded PET plastic bottles into valuable material for your 3D creations.
+* **Flat components:** we have adopted a pragmatic approach using flat components. These parts are designed using open source CAD software (such as Solvespace, OpenSCAD, Inkscape). These parts can be manufactured by laser, milling machine or 3D printing, which ensures their accessibility.
 
-Feel free to reach out at maurice.haedo@gmail.com if you have any questions or want to get involved! 🌱🌟
+* **Inclusive design:** We intentionally minimize the manufacturing skills required so that more people can actively participate. We use the Openstructure modular system (https://www.openstructures.net/), which provides a common framework for adapting and creating components, encouraging collaboration and innovation.
+
+Feel free to reach me out if you have any questions or want to get involved! 🌱🌟
 
 # Contents
 
