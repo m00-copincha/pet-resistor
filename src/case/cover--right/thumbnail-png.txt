@@ -1,0 +1,1 @@
+C:\Users\m00\Desktop\filament-extruder\pet-resistor\parts\case\cover--right>"C:/Program Files/OpenSCAD/openscad.exe" -o case--cover--right--grid.png case--cover--right--grid.scad --colorscheme DeepOcean --imgsize 500,500
